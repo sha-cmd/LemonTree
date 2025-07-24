@@ -1,0 +1,5 @@
+outs:
+- md5: 302b946db72304ca4f0357ea5b5cd5b2
+  size: 30020
+  hash: md5
+  path: bse.jpg.gpg

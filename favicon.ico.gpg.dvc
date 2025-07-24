@@ -1,0 +1,5 @@
+outs:
+- md5: 4a68148a6f45d8386b47a7a3461b12d4
+  size: 39660
+  hash: md5
+  path: favicon.ico.gpg

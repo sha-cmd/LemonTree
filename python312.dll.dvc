@@ -1,0 +1,5 @@
+outs:
+- md5: b243d61f4248909bc721674d70a633de
+  size: 6916376
+  hash: md5
+  path: python312.dll
