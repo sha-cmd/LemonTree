@@ -3,3 +3,4 @@ mypy
 mypy-extensions
 dvc
 dvc_gdrive
+pillow
